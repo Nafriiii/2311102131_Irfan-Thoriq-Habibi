@@ -112,7 +112,7 @@ int main() {
     return 0;
 }
 ```
-kode tersebut merupakan contoh dari penggunaan struct. struct pada kode tersebut berfungsi untuk menyimpan suatu informasi data diri dari mahasiswa seperti nama,alamat,dan umur. pada struct ini, terdapat tipe data seperti char name dan char address yang berukuran 50 serta int age. lalu untuk fungsi utamanya terdapat nilai yang telah data diri dari mahasiswa.
+kode tersebut merupakan contoh dari penggunaan struct. struct pada kode tersebut berfungsi untuk menyimpan suatu informasi data diri dari mahasiswa seperti nama,alamat,dan umur. pada struct ini, terdapat tipe data seperti char name dan char address yang berukuran 50 serta int age. lalu untuk fungsi utamanya terdapat nilai yang telah inisialisasikan data diri dari mahasiswa.
 ### 3. [Tipe data koleksi]
 
 ```C++
