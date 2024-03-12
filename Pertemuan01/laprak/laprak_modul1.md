@@ -237,7 +237,7 @@ int main() {//fungsi utama
 ```
 
 #### Output 1:
-![screenshot Output Unguided 1](unguided1_2311102131_Irfan Thoriq Habibi.png)
+![unguided1_2311102131_Irfan Thoriq Habibi.png](unguided1_2311102131_Irfan Thoriq Habibi.png)
 #### Output 2:
 ![screenshot Output Unguided 1(2)](unguided1(2)_2311102131_Irfan Thoriq Habibi.png)
 
