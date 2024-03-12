@@ -1,3 +1,6 @@
+/*
+oleh Irfan Thoriq Habibi - 2311102121
+*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
