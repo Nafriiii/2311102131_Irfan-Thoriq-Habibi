@@ -39,6 +39,6 @@ int main() {
         //eror message will display
         default:
         cout << " Error! Operator is not correct";
-    }//switch statment ends
+    }//switch statment ends.
     return 0;
 }
