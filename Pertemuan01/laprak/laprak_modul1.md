@@ -243,7 +243,7 @@ int main() {//fungsi utama
 
  program diatas berisi kalkulator yang berfungsi untuk menghitung keliling dan luas dari segitiga dan persegi. user hanya perlu menginputkan angka yang diinginkannya sebab didalam program ini telah di inputkan rumus untuk setiap pilihan yang ada didalamnya. Didalam program ini terdapat 4 fungsi dan 1 prosedur. selain itu juga terdapat pengulangan do-while yang mana terdapat pilihan (y/n) yang dapat dipilih oleh user jika ia ingin melanjutkan atau menghentikan program.
 
- Kesimpukan Tipe Data Primitif
+ Kesimpulan Tipe Data Primitif<br/>
  Tipe data primitif merupakan suatu tipe data yang penting sebab berfungsi sebagai pondasi dalam program. tipe data ini berguna untuk menyimpan nilai-nilai yang bersifat sederhana seperti bilangan bulat,desimal,hingga karakter.
 
 ### 2. [Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya]
