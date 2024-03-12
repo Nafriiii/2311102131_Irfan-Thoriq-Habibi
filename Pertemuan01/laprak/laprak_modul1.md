@@ -6,9 +6,9 @@
 tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti. tipe data dibagi menjadi 3 antara lain :
 1.Tipe Data Primitif
 Tipe data ini merupakan tipe data  dasar  yang telah menjadi bawaan dari bahasa pemerograman salah satunya c++. Contoh tipe data primitif antara lain:<br/>
-  -int (terdiri dari bilangan bulat)
-  -float(terdiri dari bilangan desimal)
-  -char(terdiri dari huruf)
+  -int (terdiri dari bilangan bulat)<br/>
+  -float(terdiri dari bilangan desimal)<br/>
+  -char(terdiri dari huruf)<br/>
   -boolean( terdiri dari true/false)
 
 2.Tipe Data Abstrak<br/>
@@ -16,9 +16,9 @@ Tipe data abstrak (ADT) adalah tipe data yang berisi banyak tipe data sehingga m
 
 3.Tipe Data Koleksi<br/>
 Tipe data koleksi merupakan suatu tipe yang digunakan untuk menyimpan dan mengelompokkan berbagai macam objek maupun nilai secara bersamaan. adapun contoh tipe data koleksi antara lain:
-a. Array
+a. Array<br/>
 Array berfungsi untuk menyimpan elemen yang sama dengan tipe data yang sama.
-b. Vector
+b. Vector<br/>
 vector atau standar template library (STL)secara umum mirip dengan array yang dapat menyimpan data  yang alokasi memorinya dilakukan secara bersebelahan.
 c. Map
 Map hampir sama dengan array, perbedaannya ialah map memungkinkan untuk menyimpan data berupa data selain integer.
