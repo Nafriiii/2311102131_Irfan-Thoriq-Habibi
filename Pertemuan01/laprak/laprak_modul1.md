@@ -239,7 +239,7 @@ int main() {//fungsi utama
 #### Output 1:
 ![screenshot Output Unguided 1](unguided1_2311102131_IrfanThoriqHabibi.png)
 #### Output 2:
-![screenshot Output Unguided 1(2)](unguided1(2)_2311102131_Irfan Thoriq Habibi.png)
+![screenshot Output Unguided 1(2)](unguided1(2)_2311102131_IrfanThoriqHabibi.png)
 
  program diatas berisi kalkulator yang berfungsi untuk menghitung keliling dan luas dari segitiga dan persegi. user hanya perlu menginputkan angka yang diinginkannya sebab didalam program ini telah di inputkan rumus untuk setiap pilihan yang ada didalamnya. Didalam program ini terdapat 4 fungsi dan 1 prosedur. selain itu juga terdapat pengulangan do-while yang mana terdapat pilihan (y/n) yang dapat dipilih oleh user jika ia ingin melanjutkan atau menghentikan program.
 
@@ -306,7 +306,7 @@ int main (){
 ```
 
 #### Output 1:
-![screenshot Output Unguided 2](unguided2_2311102131_Irfan Thoriq Habibi.png)
+![screenshot Output Unguided 2](unguided2_2311102131_IrfanThoriqHabibi.png)
 
 kode ini digunakan untuk mencetak struct dan class.didalam kode ini terdapat data_131 yang berfungsi untuk mendeklarasikan string username_131 dan int password_131. selain itu juga terdapat hp_131 yang berfungsi untuk mendeklarasi string brand_131,string model_131, serta int tahunrilis_131,dan int jumlah_131. kemudian struct dan class yang telah di deklarasikan akan di inisialisasikan didalam int main.
 
@@ -350,7 +350,7 @@ int main() {
 
 ```
 #### Output:
-![screenshot Output Unguided 3](unguided3_2311102131_Irfan Thoriq Habibi.png)
+![screenshot Output Unguided 3](unguided3_2311102131_IrfanThoriqHabibi.png)
 
 kode ini berfungsi untuk mencetak isi yang terdapat pada suatu map. pada kode ini, terdapat map binatangn_131 dengan key int dengan tipe data string yang mana telah terisi berbagai macam binatang beserta jumlahnya. lalu map akan menampilkan data yang telah di tersimpan.
 
