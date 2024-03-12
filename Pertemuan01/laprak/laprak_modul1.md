@@ -354,12 +354,12 @@ int main() {
 
 kode ini berfungsi untuk mencetak isi yang terdapat pada suatu map. pada kode ini, terdapat map binatangn_131 dengan key int dengan tipe data string yang mana telah terisi berbagai macam binatang beserta jumlahnya. lalu map akan menampilkan data yang telah di tersimpan.
 
-perbedaan array dan map
+1.perbedaan array dan map
 array merupakan suatu kumpulan dari nilai-nilai yang bertipe sama sedangkan map memungkinkan penggunanya untuk menggunakan tipe data yang berbeda selain interger.
 
 
 ## Kesimpulan
-Tipe data dari C++ merupakan suatu elemen yang sangat penting. terdapat 3 jenis tipe data didalam c++ yakni primitif,abstrak,hingga koleksi yang [1].
+Tipe data pada C++ sangatlah penting dalam pemrograman sebab tipe data digunakan untuk menetukan,menyimpan,hingga mengubah data didalam program. selain itu, dengan memahami dan memperdalam pengetahuan mengenai tipe data akan sangat membantu programer untuk membuat program yang lebih optimal.  [1].
 
 ## Referensi
 [1] Putra, Muhammad Taufik Dwi, Munawir Munawir, and Ana Rahma Yuniarti. "BELAJAR PEMROGRAMAN LANJUT DENGAN C++." (2023).
