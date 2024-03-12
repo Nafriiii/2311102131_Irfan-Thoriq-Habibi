@@ -354,7 +354,7 @@ int main() {
 
 kode ini berfungsi untuk mencetak isi yang terdapat pada suatu map. pada kode ini, terdapat map binatangn_131 dengan key int dengan tipe data string yang mana telah terisi berbagai macam binatang beserta jumlahnya. lalu map akan menampilkan data yang telah di tersimpan.
 
-1.perbedaan array dan map
+1.perbedaan array dan map<br/>
 array merupakan suatu kumpulan dari nilai-nilai yang bertipe sama sedangkan map memungkinkan penggunanya untuk menggunakan tipe data yang berbeda selain interger.
 
 
