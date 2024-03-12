@@ -15,11 +15,11 @@ Tipe data ini merupakan tipe data  dasar  yang telah menjadi bawaan dari bahasa 
 Tipe data abstrak (ADT) adalah tipe data yang berisi banyak tipe data sehingga memoliki nilai yang dapat lebih dari satu. salah satu contoh fitur pada tipe data ini ialah class dan struct yang mana mereka berfungsi untuk membungkus tipe data yang berada didalamnya sebagai anggota
 
 3.Tipe Data Koleksi<br/>
-Tipe data koleksi merupakan suatu tipe yang digunakan untuk menyimpan dan mengelompokkan berbagai macam objek maupun nilai secara bersamaan. adapun contoh tipe data koleksi antara lain:
-a. Array<br/>
-Array berfungsi untuk menyimpan elemen yang sama dengan tipe data yang sama.
-b. Vector<br/>
-vector atau standar template library (STL)secara umum mirip dengan array yang dapat menyimpan data  yang alokasi memorinya dilakukan secara bersebelahan.
+Tipe data koleksi merupakan suatu tipe yang digunakan untuk menyimpan dan mengelompokkan berbagai macam objek maupun nilai secara bersamaan. adapun contoh tipe data koleksi antara lain:<br/>
+a. Array
+Array berfungsi untuk menyimpan elemen yang sama dengan tipe data yang sama.<br/>
+b. Vector
+vector atau standar template library (STL)secara umum mirip dengan array yang dapat menyimpan data  yang alokasi memorinya dilakukan secara bersebelahan.<br/>
 c. Map
 Map hampir sama dengan array, perbedaannya ialah map memungkinkan untuk menyimpan data berupa data selain integer.
 ## Guided 
