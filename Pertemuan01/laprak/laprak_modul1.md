@@ -3,7 +3,10 @@
 
 ## Dasar Teori
 
-tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti
+tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti tipe data dibagi menjadi 3 antara lain :
+1.Tipe Data Primitif
+2.Tipe Data Abstrak
+3.Tipe Data Koleksi
 
 ## Guided 
 
