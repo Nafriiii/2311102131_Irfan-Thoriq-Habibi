@@ -4,7 +4,7 @@
 ## Dasar Teori
 
 tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti. tipe data dibagi menjadi 3 antara lain :
-1.Tipe Data Primitif
+1.Tipe Data Primitif<br/>
 Tipe data ini merupakan tipe data  dasar  yang telah menjadi bawaan dari bahasa pemerograman salah satunya c++. Contoh tipe data primitif antara lain:
 a.int (terdiri dari bilangan bulat)
 b.float(terdiri dari bilangan desimal)
