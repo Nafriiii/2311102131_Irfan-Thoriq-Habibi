@@ -362,5 +362,5 @@ array merupakan suatu kumpulan dari nilai-nilai yang bertipe sama sedangkan map 
 Tipe data pada C++ sangatlah penting dalam pemrograman sebab tipe data digunakan untuk menetukan,menyimpan,hingga mengubah data didalam program. selain itu, dengan memahami dan memperdalam pengetahuan mengenai tipe data akan sangat membantu programer untuk membuat program yang lebih optimal.  [1].
 
 ## Referensi
-[1] Putra, Muhammad Taufik Dwi, Munawir Munawir, and Ana Rahma Yuniarti. "BELAJAR PEMROGRAMAN LANJUT DENGAN C++." (2023).
+[1] Putra, Muhammad Taufik Dwi, Munawir Munawir, and Ana Rahma Yuniarti. "BELAJAR PEMROGRAMAN LANJUT DENGAN C++." (2023).<br/>
 [2] Pratama, Muhammad A. “STRUKTUR DATA ARRAY DUA DIMENSI PADA PEMROGRAMAN C++.” OSF Preprints, 29 Mar. 2020. Web.
