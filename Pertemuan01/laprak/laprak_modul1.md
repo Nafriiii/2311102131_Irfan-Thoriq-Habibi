@@ -3,25 +3,26 @@
 
 ## Dasar Teori
 
-tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti. tipe data dibagi menjadi 3 antara lain :<br/>
+tipe data merupakan sebuah jenis nilai atau berupa nilai yang mana akan ditampung oleh variabel. kehadiran dari tipe data ini wajib ada pada saat membuat sebuah variabel. Tujuannya supaya variabel memiliki nilai yang spesifik dan jelas saat digunakan nanti. tipe data dibagi menjadi 3 antara lain :
 1.Tipe Data Primitif
-Tipe data ini merupakan tipe data  dasar  yang telah menjadi bawaan dari bahasa pemerograman salah satunya c++. Contoh tipe data primitif antara lain:<br/>
-  a.int (terdiri dari bilangan bulat)<br/>
-  b.float(terdiri dari bilangan desimal)<br/>
-  c.char(terdiri dari huruf)<br/>
-  d.boolean( terdiri dari true/false)
+Tipe data ini merupakan tipe data  dasar  yang telah menjadi bawaan dari bahasa pemerograman salah satunya c++. Contoh tipe data primitif antara lain:
+a.int (terdiri dari bilangan bulat)
+b.float(terdiri dari bilangan desimal)
+c.char(terdiri dari huruf)
+d.boolean( terdiri dari true/false)
 
-2.Tipe Data Abstrak<br/>
+2.Tipe Data Abstrak
 Tipe data abstrak (ADT) adalah tipe data yang berisi banyak tipe data sehingga memoliki nilai yang dapat lebih dari satu. salah satu contoh fitur pada tipe data ini ialah class dan struct yang mana mereka berfungsi untuk membungkus tipe data yang berada didalamnya sebagai anggota
 
-3.Tipe Data Koleksi<br/>
-Tipe data koleksi merupakan suatu tipe yang digunakan untuk menyimpan dan mengelompokkan berbagai macam objek maupun nilai secara bersamaan. adapun contoh tipe data koleksi antara lain:<br/>
+3.Tipe Data Koleksi
+Tipe data koleksi merupakan suatu tipe yang digunakan untuk menyimpan dan mengelompokkan berbagai macam objek maupun nilai secara bersamaan. adapun contoh tipe data koleksi antara lain:
 a. Array
-Array berfungsi untuk menyimpan elemen yang sama dengan tipe data yang sama.<br/>
+Array berfungsi untuk menyimpan elemen yang sama dengan tipe data yang sama.
 b. Vector
-vector atau standar template library (STL)secara umum mirip dengan array yang dapat menyimpan data  yang alokasi memorinya dilakukan secara bersebelahan.<br/>
+vector atau standar template library (STL)secara umum mirip dengan array yang dapat menyimpan data  yang alokasi memorinya dilakukan secara bersebelahan.
 c. Map
 Map hampir sama dengan array, perbedaannya ialah map memungkinkan untuk menyimpan data berupa data selain integer.
+
 ## Guided 
 
 ### 1. [Tipe data Primitif]
@@ -112,7 +113,7 @@ int main() {
     return 0;
 }
 ```
-kode tersebut merupakan contoh dari penggunaan struct. struct pada kode tersebut berfungsi untuk menyimpan suatu informasi data diri dari mahasiswa seperti nama,alamat,dan umur. pada struct ini, terdapat tipe data seperti char name dan char address yang berukuran 50 serta int age. lalu untuk fungsi utamanya terdapat nilai yang telah inisialisasikan data diri dari mahasiswa.
+kode tersebut merupakan contoh dari penggunaan struct. struct pada kode tersebut berfungsi untuk menyimpan suatu informasi data diri dari mahasiswa seperti nama,alamat,dan umur. pada struct ini, terdapat tipe data seperti char name dan char address yang berukuran 50 serta int age. lalu untuk fungsi utamanya terdapat nilai yang telah data diri dari mahasiswa.
 ### 3. [Tipe data koleksi]
 
 ```C++
@@ -237,13 +238,13 @@ int main() {//fungsi utama
 ```
 
 #### Output 1:
-![screenshot Output Unguided 1](unguided1_2311102131_IrfanThoriqHabibi.png)
+![screenshot Output Unguided 1](unguided1_2311102131_Irfan Thoriq Habibi.png)
 #### Output 2:
-![screenshot Output Unguided 1(2)](unguided1(2)_2311102131_IrfanThoriqHabibi.png)
+![screenshot Output Unguided 1(2)](unguided1(2)_2311102131_Irfan Thoriq Habibi.png)
 
  program diatas berisi kalkulator yang berfungsi untuk menghitung keliling dan luas dari segitiga dan persegi. user hanya perlu menginputkan angka yang diinginkannya sebab didalam program ini telah di inputkan rumus untuk setiap pilihan yang ada didalamnya. Didalam program ini terdapat 4 fungsi dan 1 prosedur. selain itu juga terdapat pengulangan do-while yang mana terdapat pilihan (y/n) yang dapat dipilih oleh user jika ia ingin melanjutkan atau menghentikan program.
 
- Kesimpulan Tipe Data Primitif<br/>
+ Kesimpukan Tipe Data Primitif
  Tipe data primitif merupakan suatu tipe data yang penting sebab berfungsi sebagai pondasi dalam program. tipe data ini berguna untuk menyimpan nilai-nilai yang bersifat sederhana seperti bilangan bulat,desimal,hingga karakter.
 
 ### 2. [Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya]
@@ -306,7 +307,7 @@ int main (){
 ```
 
 #### Output 1:
-![screenshot Output Unguided 2](unguided2_2311102131_IrfanThoriqHabibi.png)
+![screenshot Output Unguided 2](unguided2_2311102131_Irfan Thoriq Habibi.png)
 
 kode ini digunakan untuk mencetak struct dan class.didalam kode ini terdapat data_131 yang berfungsi untuk mendeklarasikan string username_131 dan int password_131. selain itu juga terdapat hp_131 yang berfungsi untuk mendeklarasi string brand_131,string model_131, serta int tahunrilis_131,dan int jumlah_131. kemudian struct dan class yang telah di deklarasikan akan di inisialisasikan didalam int main.
 
@@ -350,17 +351,17 @@ int main() {
 
 ```
 #### Output:
-![screenshot Output Unguided 3](unguided3_2311102131_IrfanThoriqHabibi.png)
+![screenshot Output Unguided 3](unguided3_2311102131_Irfan Thoriq Habibi.png)
 
 kode ini berfungsi untuk mencetak isi yang terdapat pada suatu map. pada kode ini, terdapat map binatangn_131 dengan key int dengan tipe data string yang mana telah terisi berbagai macam binatang beserta jumlahnya. lalu map akan menampilkan data yang telah di tersimpan.
 
-1.perbedaan array dan map<br/>
+perbedaan array dan map
 array merupakan suatu kumpulan dari nilai-nilai yang bertipe sama sedangkan map memungkinkan penggunanya untuk menggunakan tipe data yang berbeda selain interger.
 
 
 ## Kesimpulan
-Tipe data pada C++ sangatlah penting dalam pemrograman sebab tipe data digunakan untuk menetukan,menyimpan,hingga mengubah data didalam program. selain itu, dengan memahami dan memperdalam pengetahuan mengenai tipe data akan sangat membantu programer untuk membuat program yang lebih optimal.  [1].
+Tipe data pada C++ sangatlah penting dalam pemrograman sebab tipe data digunakan untuk menetukan,menyimpan,hingga mengubah data didalam program. selain itu, dengan memahami dan memperdalam pengetahuan mengenai tipe data akan sangat membantu programer untuk membuat program yang lebih optimal.[1].
 
 ## Referensi
-[1] Putra, Muhammad Taufik Dwi, Munawir Munawir, and Ana Rahma Yuniarti. "BELAJAR PEMROGRAMAN LANJUT DENGAN C++." (2023).<br/>
+[1] Putra, Muhammad Taufik Dwi, Munawir Munawir, and Ana Rahma Yuniarti. "BELAJAR PEMROGRAMAN LANJUT DENGAN C++." (2023).
 [2] Pratama, Muhammad A. “STRUKTUR DATA ARRAY DUA DIMENSI PADA PEMROGRAMAN C++.” OSF Preprints, 29 Mar. 2020. Web.
