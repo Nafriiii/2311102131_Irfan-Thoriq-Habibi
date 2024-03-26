@@ -1028,5 +1028,5 @@ Program ini menggunakan Double linked list untuk menampilkan struktur data. dida
 Lingked list merupakan struktur data yang hampir mirip dengan array akan tetapi lingked list ini lebih fleksibel.Linked list memungkinkan penggunanya untuk menyimpan dan mengelola data yang mana setiap elemennya disimpan didalam memori yang terpisah dengan pointer sebagai penghubungnya.linked list memiliki keunggulan dalam penambahan dan penghapusan data yang lebih efisien tetapi harus diakses secara berurutan dari awal. Linked list terbagi menjadi single dan double linked list. kedua linked liat tersebut hampir sama hanya dibedakan dengan double linked list dapat menggunakan prev dan next.[1].
 
 ## Referensi
-[1] Triase, T. (2020). Struktur Data: Diktat Edisi Revisi.
+[1] Triase, T. (2020). Struktur Data: Diktat Edisi Revisi.<br/>
 [2]Nugraha, A. S. (2019). Artikel Double Linked List Circulate.
