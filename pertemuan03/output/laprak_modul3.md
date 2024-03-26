@@ -5,9 +5,9 @@
 
 LINKED LIST<br/>
 Linked list merupakan suatu struktur data linier. Meskipun termasuk struktur data linier, Linked list berbeda dengan array sebab linked list dibentuk secara dinamik. Elemen linked list biasanya disebut node dibentuk sambil menjalankan sesuai dengan instruksi yang diberikan. Jika array memiliki elemen array  yang dapat diakses secara langsung dengan menggunakan indeks, untuk sebuah node linked list diakses menggunakan pointer yang mengarah pada node tersebut. Linked list dibagi menjadi dua yakni single linked list dan double linked list.<br/>
-single linked list<br/>
+-single linked list<br/>
 linked list merupakan sejumlah node yang terhubung secara linier dengan bantuan pointer. suatu struktur data dikatakan single linked ketika hanya ada satu pointer yang menghubungkan setiap node single. Dalam operasi Single linked list biasanya terdpat operasi penambahan dan penghapusin simpul pada awal,tengah, hingga akhir daftar. tidak hanya itu, single linked list melakukan pencarian dan pengambilan nilai pada simpul tertentu dalam daftar.<br/>
-Double Linked List<br/>
+-Double Linked List<br/>
 pada dasarnya, double linked list hampir sama dengan lsingle linked list yakni terdapat pointer baru yaitu prev dan next. keberadaan kedua pointer tersebut menjadikan double linked list menjadi lebih fleksibel jika dibandingkan dengan single linked list. Double linked list terdiri atas elemen-elemen yang terhubung oleh dua pointer dalam satu elemen dan list serta dapat melintas dengan baik didepan maupun dibelakang. keuntungan dari double linked list memungkinkan untuk melakukan penambahan dan penghapusan dimana saja secara efisien yang sangat berguna ketika mengimplementasikan beberapa algoritma yang memerlukan operasi tersebut.
 
 
