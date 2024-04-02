@@ -462,7 +462,7 @@ int main (){
 ```
 program diatas merupakan program linked list non circular yang mana program ini berfungsi untuk menyimpan data angka. user dapat menambahkan,mengubah,hingga menghapus data angka yang ada pada linked list non circular ini dengan cara menambahkan perintah fungsi pada int main().
 
-### 1. [Linked List Circular]
+### 2. [Linked List Circular]
 
 ```C++
 #include <iostream>
