@@ -7,28 +7,34 @@ Linked list merupakan bentuk dari struktur data yang didalamnya terdapat kumpula
 1. Linked List Non-Circular<br/>
  linked list non circular merupakan linked list yang head (node pertama) tidak saling terhubung dengan tail (node terakhir) yang mana pada tail selalu bernilai 'NULL' yang menjadikannya tanda terakhir didalam list.<br/>
  Operasi Linked list non circular<br/>
- //deklarasi simpul
+
 a. Node (Deklarasi simpul)<br/>
- struct node {<br/>
+```C++
+struct node {<br/>
     string nama;
     node *next;
 };
+```
 b. Deklarasi variabel head dan tail
+```C++
 node *head;
 node *tail;
-
+```
 c. Inisialisasi linked list
+```C++
 void init_131() {
     head = NULL;
     tail = NULL;
 }
-
+```
 d. Pengecekan linked list kosong
+```C++
 bool isempty() {
     return head == NULL;
 }
-
+```
 e. Menambah data linked list
+```C++
 void insertdepan(string nama) {
     node *baru = new node;
     baru->nama = nama;
@@ -40,8 +46,9 @@ void insertdepan(string nama) {
         head = baru;
     }
 }
-
+```
 f. menghapus data linked list
+```C++
  void hapusdepan() {
     if (!isempty()) {
         node *hapus = head;
@@ -56,8 +63,9 @@ f. menghapus data linked list
         cout << "Linked list kosong!" << endl;
     }
 }
-
+```
 g. menampilkan data linked list
+```C++
  void tampil (){
     node *bantu;
     bantu = head;
@@ -71,17 +79,21 @@ g. menampilkan data linked list
     else {
         cout << " list masih kosong!"<<endl;
     }
-}<br/>
+}
+```
 2. Linked List Circular<br/>
  Jika linked list non circular memiliki head (node pertama) yang tidak saling terhubung dengan tailnya(node terakhir), berbeda halnya dengan linked list circular. Linked list Circular ialah linked list yang terhubung dengan head (node pertama) tetapi tak mempunyai akhiran sebab tailnya (node terakhir) tidak berupa 'NULL'.<br/>
 
 Operasi Linked List circular
-a. Node (Deklarasi simpul)<br/>
+a. Node (Deklarasi simpul)
+```C++
  struct node {
     string nama;
     node *next;
 };
+```
 b. inisialisasi head dan tail
+```C++
 Node* head, * tail, * baru, * bantu, * hapus;
 
 void init()
@@ -89,8 +101,9 @@ void init()
     head = NULL;
     tail = head;
 }
-
+```
 c. Pengecekan linked list kosong
+```C++
 int isEmpty()
 {
     if (head == NULL)
@@ -98,15 +111,18 @@ int isEmpty()
     else
         return 0; // false
 }
-
+```
 d. membuat simpul (node)
+```C++
 void buatNode(string nama)
 {
     baru = new Node;
     baru->nama = nama;
     baru->next = NULL;
 }
+```
 e.menambahkan simpul(node)
+```C++
 {
     buatNode(nama);
 
@@ -126,8 +142,9 @@ e.menambahkan simpul(node)
         baru->next = head;
     }
 }
+```
 f. menghapus simpul linked list
- // Hapus Belakang
+```C++
 void hapusBelakang()
 {
     if (isEmpty() == 0)
@@ -160,8 +177,9 @@ void hapusBelakang()
         cout << "List masih kosong!" << endl;
     }
 }
-
+```
 f. menampilkan simpul
+```C++
 void tampil()
 {
     if (isEmpty() == 0)
@@ -178,8 +196,8 @@ void tampil()
     {
         cout << "List masih kosong!" << endl;
     }
-}<br/>
-
+}
+```
 ## Guided 
 
 ### 1. [Linked List Non Circular]
