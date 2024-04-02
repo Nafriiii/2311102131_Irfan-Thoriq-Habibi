@@ -8,7 +8,7 @@ Linked list merupakan bentuk dari struktur data yang didalamnya terdapat kumpula
  linked list non circular merupakan linked list yang head (node pertama) tidak saling terhubung dengan tail (node terakhir) yang mana pada tail selalu bernilai 'NULL' yang menjadikannya tanda terakhir didalam list.<br/>
  Operasi Linked list non circular<br/>
 a. Node (Deklarasi simpul)<br/>
- struct node {
+ struct node {<br/>
     string nama;
     node *next;
 };
@@ -32,8 +32,6 @@ void insertdepan(string nama) {
     node *baru = new node;
     baru->nama = nama;
     baru->next = NULL;
-
-    // Jika linked list kosong
     if (isempty()) {
         head = tail = baru;
     } else {
