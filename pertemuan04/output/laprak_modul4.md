@@ -84,7 +84,7 @@ g. menampilkan data linked list
 2. Linked List Circular<br/>
  Jika linked list non circular memiliki head (node pertama) yang tidak saling terhubung dengan tailnya(node terakhir), berbeda halnya dengan linked list circular. Linked list Circular ialah linked list yang terhubung dengan head (node pertama) tetapi tak mempunyai akhiran sebab tailnya (node terakhir) tidak berupa 'NULL'.<br/>
 
-Operasi Linked List circular
+Operasi Linked List circular<br/>
 a. Node (Deklarasi simpul)
 ```C++
  struct node {
