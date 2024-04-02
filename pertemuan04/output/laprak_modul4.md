@@ -7,6 +7,7 @@ Linked list merupakan bentuk dari struktur data yang didalamnya terdapat kumpula
 1. Linked List Non-Circular<br/>
  linked list non circular merupakan linked list yang head (node pertama) tidak saling terhubung dengan tail (node terakhir) yang mana pada tail selalu bernilai 'NULL' yang menjadikannya tanda terakhir didalam list.<br/>
  Operasi Linked list non circular<br/>
+ //deklarasi simpul
 a. Node (Deklarasi simpul)<br/>
  struct node {<br/>
     string nama;
@@ -1138,49 +1139,49 @@ int main() {
 
 ```
 #### Output 1:
-![1](1.png)
+![1](1.png)<br/>
 menambahkan keqing didepan
 #### Output 2:
-![2](2.png)
+![2](2.png)<br/>
 menambahkan ayaka dibelakang
 #### Output 3:
-![3](3.png)
+![3](3.png)<br/>
 menambahkan fischl di tengah
 #### Output 4:
-![4](4.png)
+![4](4.png)<br/>
 menambahkan jean di belakang
 #### Output 5:
-![5](5.png)
+![5](5.png)<br/>
 menampilkan semua data yang telah ditambahkan
 #### Output 6:
-![6](6.png)
+![6](6.png)<br/>
 mengubah data didepan yang sebelumnya keqing menjadi hoshino 
 #### Output 7:
-![7](7.png)
+![7](7.png)<br/>
 mengubah data dibelakang yang sebelumnya jean menjadi azusa
 #### Output 8:
-![8](8.png)
+![8](8.png)<br/>
 mengubah data ditengah (posisi 2) yang sebelumnya fischl menjadi mika
 #### Output 9:
-![9](9.png)
+![9](9.png)<br/>
 menampilkan seluruh data setelah diubah
 #### Output 10:
-![10](10.png)
+![10](10.png)<br/>
 menghapus data didepan (hoshino) dari linked list 
 #### Output 11:
-![11](11.png)
+![11](11.png)<br/>
 menghapus data dibelakang (azusa) dari linked list 
 #### Output 12:
-![12](12.png)
+![12](12.png)<br/>
 menghapus data ditengah (posisi 2) (ayaka) dari linked list 
 #### Output 13:
-![13](13.png)
+![13](13.png)<br/>
 menampilkan semua data setelah menghapus beberapa
 #### Output 14:
-![14](14.png)
+![14](14.png)<br/>
 menghapus semua list yang berada di linked list
 #### Output 15:
-![15](15.png)
+![15](15.png)<br/>
 menampilkan semua data yang telah di hapus semuanya sebelumnya yang akan menampilkan pesan "linked list kosong!"
 
 berikut ini merupakan tampilan menu dari program single linked list non-circular yang telah dibuat. didalam program ini terdapat 11 menu yang terdiri dari tambah depan,tambah belakang,tambah tengah berfungsi untuk menambahkan data pada linked list non-circular ini.Ubah depan,ubah belakang dan,ubah tengah memiliki fungsi untuk mengubah data yang telah di inputkan sebelumnya.Hapus depan,hapus belakang,hapus tengah dan,hapus list berfungsi untuk menghapus data yang sudah diinputkan sebelumnya.Tampilkan berfungsi untuk menampilkan semua data yang telah diinputkan oleh user.dan keluar berfungsi untuk menghentikan program.
@@ -1605,37 +1606,37 @@ int main() {
 
 ```
 #### Output 1:
-![1](21.png)
+![1](21.png)<br/>
 menambahkan data Jawab di bagian depan linked list
 #### Output 2:
-![2](22.png)
+![2](22.png)<br/>
 menambahkan data Budi di bagian belakang linked list
 #### Output 3:
-![3](23.png)
+![3](23.png)<br/>
 menambahkan data Farrel di bagian tengah (posisi 2) linked list
 #### Output 4:
-![4](24.png)
+![4](24.png)<br/>
 menambahkan data Denis di bagian tengah (posisi 3) linked list
 #### Output 5:
-![5](25.png)
+![5](25.png)<br/>
 menambahkan data Anis di bagian tengah (posisi 4) linked list
 #### Output 6:
-![6](26.png)
+![6](26.png)<br/>
 menambahkan data Bowo di bagian tengah (posisi 5) linked list
 #### Output 7:
-![7](27.png)
+![7](27.png)<br/>
 menambahkan data Gahar di bagian tengah (posisi 6) linked list
 #### Output 8:
-![8](28.png)
+![8](28.png)<br/>
 menambahkan data Udin di bagian tengah (posisi 7) linked list
 #### Output 9:
-![9](29.png)
+![9](29.png)<br/>
 menambahkan data Ucok di bagian tengah (posisi 8) linked list
 #### Output 10:
-![10](30.png)
+![10](30.png)<br/>
 menambahkan data irfan (sendiri) di bagian tengah (posisi 2) linked list
 #### Output 11:
-![11](31.png)
+![11](31.png)<br/>
 Menampilkan seluruh data yang telah di masukkan kedalam linked list
 
 program ini merupakan program yang sama dengan program unguided1. disini user telah menginput kan data sesuai dengan yang diminta oleh soal dengan menggunakan insertdepan,insertbelakang,inserttengah. setelah menginputkan semua data yang sesuai dengan soal, user memilih menu 11 untuk menampilkan seluruh data yang telah diinputkan sebelumnya.
@@ -2059,36 +2060,35 @@ int main() {
 
 ```
 #### Output 1:
-![1](41.png)
+![1](41.png)<br/>
 menambahkan data Wati di bagian tengah (posisi 4) linked list
 #### Output 2:
-![2](42.png)
+![2](42.png)<br/>
 menghapus data Denis (posisi 5) didalam linked list
 #### Output 3:
-![3](43.png)
+![3](43.png)<br/>
 menambahkan data Owi di bagian depan linked list
 #### Output 4:
-![4](44.png)
+![4](44.png)<br/>
 menambahkan data David di bagian Belakang linked list
 #### Output 5:
-![5](45.png)
+![5](45.png)<br/>
 mengubah data udin (posisi 9) menjadi Idin 
 #### Output 6:
-![6](46.png)
+![6](46.png)<br/>
 menambahkan data Lucy di bagian belakang linked list
 #### Output 7:
-![7](47.png)
+![7](47.png)<br/>
 menghapus data Owi dibagian depan linked list
 #### Output 8:
-![8](48.png)
+![8](48.png)<br/>
 mengubah data Jawad menjadi Bagas
 #### Output 9:
-![9](49.png)
+![9](49.png)<br/>
 menghapus data Lucy dibagian belakang linked list
 #### Output 10:
-![10](50.png)
+![10](50.png)<br/>
 menampilkan seluruh data yang telah diinputkan ke dalam linked list
-#### Output 11:
 
 program diatas melanjutkan dari unguided 2 yakni menambahkan data wati diantara Farrel dan Denis. lalu menghapus data Denis. menambahkan data Owi di bagian depan linked list. menambahkan data David dibagian belakang linked list. mengubah data Udin menjadi Idin. mengubah data terakhir menjadi lucy. menghapus data didepan(awal). mengubah data diawal menjadi Bagas. menghapus data terakhir ( paling belakang). dan terakhir menampilkan seluruh data yang telah diedit sebelumnya.
 
