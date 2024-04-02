@@ -71,7 +71,7 @@ g. menampilkan data linked list
     bantu = head;
     if (isempty()== false){
         while ( bantu != NULL){
-            cout << bantu->data <<ends;
+            cout << bantu->nama <<ends;
             bantu = bantu-> next;
         }
         cout << endl;
@@ -187,7 +187,7 @@ void tampil()
         tail = head;
         do
         {
-            cout << tail->data << ends;
+            cout << tail->nama << ends;
             tail = tail->next;
         } while (tail != head);
         cout << endl;
