@@ -347,9 +347,6 @@ kode di atas merupakan program hashtable sederhana yang memiliki fungsi mencari 
 ![1](ssoal1.png)
 
 ```C++
-/*
-Irfan Thoriq Habibi - 2311102131
-*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -357,21 +354,17 @@ using namespace std;
 const int MAX_SIZE = 10;
 
 // Fungsi hash sederhana untuk menghasilkan indeks dari kunci (NIM)
-int hash_func(string key) {
-    int sum = 0;
-    for (char c : key) {
-        sum += c;
-    }
-    return sum % MAX_SIZE;
+int hash_func(int key){
+    return key % MAX_SIZE;
 }
 
 // Struktur data untuk menyimpan informasi mahasiswa
 struct data_131 {
     string nama_131;
-    string nim_131;
+    long long nim_131;
     int nilai_131;
     data_131* next;
-    data_131(string nama_131, string nim_131, int nilai_131) : nama_131(nama_131),nim_131(nim_131), nilai_131(nilai_131), next(nullptr) {}
+    data_131(string nama_131, long long nim_131, int nilai_131) : nama_131(nama_131),nim_131(nim_131), nilai_131(nilai_131), next(nullptr) {}
 };
 
 // Kelas HashTable
@@ -399,7 +392,7 @@ public:
     }
 
     // Fungsi untuk menambahkan data mahasiswa ke hashtable
-    void insertdata_131(string nama_131, string nim_131, int nilai_131) {
+    void insertdata_131(string nama_131, long long nim_131, int nilai_131) {
         int index = hash_func(nim_131);
         data_131* current = table[index];
         while (current != nullptr) {
@@ -415,7 +408,7 @@ public:
     }
 
     // Fungsi untuk mencari data mahasiswa berdasarkan NIM
-    data_131* carinim_131(string nim_131) {
+    data_131* carinim_131(long long nim_131) {
         int index = hash_func(nim_131);
         data_131* current = table[index];
         while (current != nullptr) {
@@ -518,8 +511,8 @@ int main() {
                 cout << "================================================="<<endl;
                 cout << "=           TAMBAHKAN DATA MAHASISWA            ="<<endl;
                 cout << "================================================="<<endl;
-                string nim_131;
                 string nama_131;
+                long long nim_131;
                 int nilai_131;
                 cout << "Inputkan Nama: ";
                 cin.ignore();
@@ -548,7 +541,7 @@ int main() {
                 cout << "==============================================================" << endl;
                 cout << "=           CARI DATA SESUAI DENGAN NIM MAHASISWA            =" << endl;
                 cout << "==============================================================" << endl;
-                string nim_131;
+                long long nim_131;
                 cout << "Inputkan NIM: ";
                 cin >> nim_131;
                 data_131* data = ht.carinim_131(nim_131);
