@@ -616,5 +616,5 @@ kode diatas merupakan program hashtable yang berfungsi untuk menambahkan data,me
 Hashtable merupakan suatu struktur data yang kuat lagi efisien dalam menyimpan serta mengelola data array maupun vector.salah satu keunggulan dari hashtable ialah kecepatan dalam mengakses operasi pencarian,penyisipan hingga penghapusan data yang tidak bergantung pada ukuran data yang disimpannya.[1].
 
 ## Referensi
-[1] Tapia-Fernández, Santiago, Daniel García-García, and Pablo García-Hernandez. "Key Concepts, Weakness and Benchmark on Hash Table Data Structures." Algorithms 15.3 (2022): 100.
+[1] Tapia-Fernández, Santiago, Daniel García-García, and Pablo García-Hernandez. "Key Concepts, Weakness and Benchmark on Hash Table Data Structures." Algorithms 15.3 (2022): 100.<br/>
 [2] Zheng, Tianqi, Zhibin Zhang, and Xueqi Cheng. "Saha: a string adaptive hash table for analytical databases." Applied Sciences 10.6 (2020): 1915.
