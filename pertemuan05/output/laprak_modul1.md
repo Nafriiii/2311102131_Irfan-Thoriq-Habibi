@@ -595,19 +595,19 @@ int main() {
 
 ```
 #### Output:
-![1](1.png)
-menambahkan data Irfan Thoriq Habibi ke dalam hash table
-![2](2.png)
-menambahkan data Irfan dan thoriq ke dalam hashtable
-![3](3.png)
-menambahkan data habibi ke dalam hash table
-![4](4.png)
-menampilkan seluruh data yang telah tersimpan didalam hashtable
-![5](5.png)
-mencari data dengan nim 2311102131 pada hash table
-![6](6.png)
-mencari data dengan rentang nilai 80-90 pada hash table
-![7](7.png)
+![1](1.png)<br/>
+menambahkan data Irfan Thoriq Habibi ke dalam hash table<br/>
+![2](2.png)<br/>
+menambahkan data Irfan dan thoriq ke dalam hashtable<br/>
+![3](3.png)<br/>
+menambahkan data habibi ke dalam hash table<br/>
+![4](4.png)<br/>
+menampilkan seluruh data yang telah tersimpan didalam hashtable<br/>
+![5](5.png)<br/>
+mencari data dengan nim 2311102131 pada hash table<br/>
+![6](6.png)<br/>
+mencari data dengan rentang nilai 80-90 pada hash table<br/>
+![7](7.png)<br/>
 menghapus data thoriq dari hash table dan terakhir menampilkan seluruh data yang telah tersimpan pada hashtable.
 
 kode diatas merupakan program hashtable yang berfungsi untuk menambahkan data,mencari data menggunakan nim,mencari data dengan rentang nilai,menghapus data,hingga menampilkan seluruh data mahasiswa. program ini digunakan untuk menyimpan data yang terdiri dari nama,nim dan juga nilai mahasiswa. user dapat memilih apapun yang berada didalam menu. apabila user menginputkan angka yang tidak sesuai dengan menu, program akan menampilkan pesan "Input tidak valid Mohon masukkan angka 1 hingga 6".
