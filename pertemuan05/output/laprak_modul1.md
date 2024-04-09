@@ -6,19 +6,22 @@
 HASHTABLE<br/>
 a. Perngertian Hashtable<br/>
 hash table merupakan struktur data yang mengatur data kedalam pasangan key-value. Data-data tersebut disimpan kedalam format array yang mana pada setiap nilainya memiliki indeks uniknya sendiri. Hash table sendiri menggunakan array atau vector dalam menyimpan data.<br/>
+
 b.Fungsi Hashtable<br/>
 Hash table memiliki fungsi utama yakni mempercepat proses dalam mengakses suatu data yang membuatnya menjadi suatu solusi dalam membuat proses data lebih cepat dan efisien.<br/>
+
 c.Operasi Hashtable<br/>
-hashtable memiliki berbagai macam operasi didalamnya. berikut ini ialah macam macam operasi hashtable.
+hashtable memiliki berbagai macam operasi didalamnya. berikut ini ialah macam macam operasi hashtable.<br/>
 1.insertion (memasukkan data)<br/>
 2.searching (mencari data)<br/>
 3.deletion (menghapus data)<br/>
 4.update (memperbaharui data)<br/>
 5.tranversal (menampilkan seluruh data)<br/>
+
 d. contoh pengoperasian hashtable<br/>
 berikut ini merupakan contoh dari pengoperasian hashtable.<br/>
 
-a. Struktur data hashtable
+a. Struktur Data Hashtable
 ```C++
 struct Node{
     int key;
