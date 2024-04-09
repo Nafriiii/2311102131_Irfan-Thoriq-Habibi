@@ -5,7 +5,7 @@
 
 HASHTABLE<br/>
 a. Perngertian Hashtable<br/>
-hash table merupakan struktur data yang mengatur data kedalam pasangan key-value. Data-data tersebut disimpan kedalam format array yang mana pada setiap nilainya memiliki indeks uniknya sendiri. Hash table sendiri menggunakan array atau vector dalam menyimpan data.<br/>
+hash table merupakan struktur data yang mengatur data kedalam pasangan key-value. Data-data tersebut disimpan kedalam format array yang mana pada setiap nilainya memiliki indeks uniknya sendiri. Hash table sendiri menggunakan array atau vector dalam menyimpan data. sistem pada hashtable bekerja dengan mengambil input yang terletak pada kunci lalu menaruhnya ke nilai indeks didalam array maupun vector menggunakan fungsi hash. hashtable memiliki teknik yang bernama chaining yang berfungsi untuk  menyimpan data didalam slot yang sama.<br/>
 
 b.Fungsi Hashtable<br/>
 Hash table memiliki fungsi utama yakni mempercepat proses dalam mengakses suatu data yang membuatnya menjadi suatu solusi dalam membuat proses data lebih cepat dan efisien.<br/>
