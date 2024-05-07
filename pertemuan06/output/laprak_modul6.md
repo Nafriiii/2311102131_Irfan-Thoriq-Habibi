@@ -6,7 +6,7 @@
 A.STACK<br/>
  Stack merupakan struktur data  tumpukan yang mengikuti prinsip dari LIFO (last In First Out) yang mana elemen yang ditambahkan terakhir akan terlebih dahulu dihapus.<br/>
  Stack/tumpukan terdiri dari list linier yang dipada elemen puncaknya dinamakan (TOP).TOP ini merupakan tempat terjadinya operasi penyisipan dan penghapusan pada stack. pada penyisipan dilakukan diatas TOP, dan penghapusan dilakukan pada TOP.<br/>
-B. Contoh pengoperasian STACK
+B. Contoh pengoperasian STACK<br/>
  berikut ini merupakan contoh dari pengoperasian stack pada c++ antara lain :<br/>
 a.IsFull (berfungsi untuk memeriksa tumpukan penuh atau tidak)<br/>
 ```C++
@@ -247,7 +247,7 @@ int main() {
 }
 ```
 #### Output:
-![1](1)
+![1](1.png)
 
 program ini berfungsi untuk menentukan suatu kalimat apakah ia polindrom atau tidak. jadi pada cleanstack_131 ini berfungsi untuk mengubah semua huruf menjadi huruf kecil agar tidak memengaruhi perbandingan karakter ketika akan di cek apakah ia polidrom atau tidak. palindrome_131 berfungsi untuk mengecek kata yang diinputkan user itu polindrom atau tidak dengan membandingkan setiap karakter pada stack. jika karakter tersebut bukan palindrom makan akan menjadi false dan jika karakter tersebut palindrom apa menjadi true.
 
@@ -315,7 +315,7 @@ int main() {
 
 ```
 #### Output:
-![2](2)
+![2](2.png)
 program ini berfungsi untuk membalikkan kata dari suatu kalimat seperti contohnya irfan menjadi nafri. jadi pada fungsi membalikkankata_131 disini berfungsi untuk membalikkan setiap karakter pada suatu kata yang semulanya berada diawal menjadi diakhir begitu juga sebaliknya,
 ## Kesimpulan
 stack merupakan suatu struktur data yang mengikuti prinsif LIFO ( Last In First Out) yang mana pada nilai/elemen terakhir akan ditempatkan pada awal. stack biasanya digunakan pada banyak aplikasi seperti evaluasi ekspresi matematika,pembalikan urutan kata,dll.[1].
