@@ -491,18 +491,18 @@ int main() {
 }
 ```
 #### Output:
-![1](1.png)
-menambahkan data irfan dan nafri kedalam antrian.
-![2](2.png)
-menampilkan antrian dan melihat jumlah antrian yang tersedia.
-![3](3.png)
-mengurangi antrian dan melihat antrian yang tersimpan.
-![4](4.png)
-menampilkan jumlah antrian dan menghapus seluruh antrian yang tersimpan.
-![5](5.png)
-semua antrian telah terhapus.
-![6](6.png)
-semua antrian telah terhapus dan keluar dari program.
+![1](1.png)<br/>
+menambahkan data irfan dan nafri kedalam antrian.<br/>
+![2](2.png)<br/>
+menampilkan antrian dan melihat jumlah antrian yang tersedia.<br/>
+![3](3.png)<br/>
+mengurangi antrian dan melihat antrian yang tersimpan.<br/>
+![4](4.png)<br/>
+menampilkan jumlah antrian dan menghapus seluruh antrian yang tersimpan.<br/>
+![5](5.png)<br/>
+semua antrian telah terhapus.<br/>
+![6](6.png)<br/>
+semua antrian telah terhapus dan keluar dari program.<br/>
 
 program ini merupakan lanjutan dari unguided 1. disini terdapat 6 menu yang dapat digunakan yakni  Tambah Antrian,Kurangi Antrian,Lihat Antrian,Hitung Antrian,Hapus Seluruh Antrian,dan Keluar. tambah antrian berfungsi untuk menambahkan antrian mahasiswa. kurangi antrian berfungsi untuk mengurangi antrian mahasiswa.lihat antrian berfungsi untuk melihat data mahasiswa apa saja yang telah tersimpan didalam antrian. hitung antrian berfungsi untuk menampilkan jumlah antrian yang tersimpan didalam antrian. hapus seluruh antrian berfungsi untuk menghapus seluruh antrian yang berada pada program. keluar berfungsi untuk menghentikan program. 
 ## Kesimpulan
