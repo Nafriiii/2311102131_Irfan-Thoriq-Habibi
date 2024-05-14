@@ -334,6 +334,11 @@ int main() {
 }
 ```
 #### Output:
+![7](7.png)<br/>
+tampilan awal guided yang menggunakan array<br/>
+![8](8.png)<br/>
+tampilan awal unguided yang mengubah bagian array menjadi linkedlist.<br/>
+
 program ini merupakan program yang telah dimodifikasi dari program yang ada pada guided. pada program ini, user telah mengubah array menjadi linkedlist. user juga menambahkan menu pada bagian int main sehingga ketika di jalankan, user hanya perlu memilih menu yang tersedia pada program.
 
 ### 2. [Dari nomor 1 buatlah konsep antri dengan atribut Nama mahasiswa dan NIM Mahasiswa]
