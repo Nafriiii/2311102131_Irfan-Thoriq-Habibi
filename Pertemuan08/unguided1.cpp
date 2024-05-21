@@ -1,4 +1,6 @@
-#include <iostream>
+/*
+Irfan Thoriq Habibi - 2311102131
+*/#include <iostream>
 #include <conio.h>
 #include <iomanip>
 #include <cctype> // Untuk tolower
