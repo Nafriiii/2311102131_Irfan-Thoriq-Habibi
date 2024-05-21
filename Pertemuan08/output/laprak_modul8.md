@@ -4,15 +4,17 @@
 ## Dasar Teori
 A. Pengertian Algoritma Searching<br/>
 Searching merupakan suatu proses dalam mencari nilai maupun kata didalam kumpulan data. searching sendiri dibagi menjadi 2 yakni sequential search dan binary search.<br/>
+<br/>
 a. Algoritma Sequential Search<br/>
-sequential search merupakan suatu proses membandingkan setiap elemen larik satu persatu secara berurutan, mulai dari awal hingga semua elemen dicari hingga ditemuka atau seluruh elemen telah habis diperiksa.<br/>
+   sequential search merupakan suatu proses membandingkan setiap elemen larik satu persatu secara berurutan, mulai dari awal hingga semua elemen dicari hingga ditemuka atau seluruh elemen telah habis diperiksa.<br/>
 Berikut ini merupakan langkah-langkah pencarian dengan menggunakan sequential search :<br/>
 1.Melakukan perbandingan secara berurutan terhadap data dengan menggunakan kata kunci.<br/>
 2.sequential search melakukan looping(pengulangan) dari data awal hingga jumlah data-n.<br/>
 3.Setiap looping(pengulangan) yang dilakukan, maka setiap karakter akan dilakukan pencocokan data dengan kata kunci yang telah di inputkan.<br/>
 4.Jika data cocok dengan kata kunci yang telah diinputkan,maka data berhasil ditemukan dan pencarian akan dihentikan. Begitu juga sebaliknya, apabila data tidak cocok dengan kata kunci yang diinputkan hingga data terakhir, maka pencarian kata kunci didalam data akan dihentikan dan data tidak ditemukan.<br/>
+<br/>
 b. Algoritma Binary Search<br/>
-Binary Search merupakan suatu cara/tehnik dalam melakukan pencarian data dengan cara berulang kali membagi separuh dari jumlah data yang dicari sehingga memperkecil pencarian menjadi satu data. Algoritma ini digunakan untuk ketika memerlukan pencarian dengan waktu yang cepat.<br/>
+   Binary Search merupakan suatu cara/tehnik dalam melakukan pencarian data dengan cara berulang kali membagi separuh dari jumlah data yang dicari sehingga memperkecil pencarian menjadi satu data. Algoritma ini digunakan untuk ketika memerlukan pencarian dengan waktu yang cepat.<br/>
 Berikut ini merupakan langkah-langkah pencarian dengan menggunakan binary search :<br/>
 1.Mengurutkan semua data terlebih dahulu yang dapat dilakukan secara ascending (depan-belakang) maupun descending (belakang-depan).<br/>
 2.Membagi data dengan 2. jika data yang dicari lebih kecil dari data yang terletak ditengah, maka pencarian akan berlanjut ke arah kiri. Dan apabila data yang dicari lebih besar dari data yang berada di tengah, maka pencarian akan berlanjut ke arah kanan. Hal itu akan berulang hingga kata kunci yang diinputkan dapat ditemukan.<br/>
